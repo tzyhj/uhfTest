@@ -9,10 +9,10 @@ android {
         targetSdkVersion 23
         versionCode 1
         versionName "OLD1.6.9"
-        ndk {
-            //选择要添加的对应cpu类型的.so库。
-            abiFilters 'armeabi'
-        }
+//        ndk {
+//            //选择要添加的对应cpu类型的.so库。
+//            abiFilters 'armeabi'
+//        }
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }

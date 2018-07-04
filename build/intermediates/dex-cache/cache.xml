@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/qc/.android/build-cache/b0bb63a7cbc50f9ab9fcbf62e975597f5f751c29/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/qc/androidProject/uhfTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a83a1fcf5a48b904459f2a80b5cbdace28d8a162/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/qc/.android/build-cache/ad9807be77548d16431f9157cdf6cac7bc3a8e6a/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/qc/androidProject/uhfTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_925da2a8da8c1498f02a4f44335bd1ed65c1ca9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/qc/.android/build-cache/6d7afcb3d7ba18e253d70cd184da56f087e8bb55/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/qc/androidProject/uhfTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9f5030b82c1eb4e65d7dfccefd8ec323c5126800/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/qc/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/home/qc/androidProject/uhfTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/eventbus-3.0.0_1f414b6ed00f46ba411a4e69e015e5c79199351a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/qc/.android/build-cache/5ba4c99ae0f5cd5807eda2f13f06404505a6ad3c/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/qc/androidProject/uhfTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_1c9f244ef3c7f1cdf1dd942c79dc3c412524d42c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/qc/.android/build-cache/801648c7e044b6765d9c488a7cfe7872cf24b27c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/qc/androidProject/uhfTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_789559435ba1fdaf06288b5c72763af102ff1c8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/qc/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.2.24/a2b82688715ee16d874d90229d204daf3efcac8e/fastjson-1.2.24.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2b82688715ee16d874d90229d204daf3efcac8e">
+        <dex dex="/home/qc/androidProject/uhfTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/fastjson-1.2.24_93cd3b8daa653cd586e27545778417c7274f6e0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/qc/androidProject/uhfTest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="908bcfc4e37623cd27f56b87a287caff6046cfdd">
+        <dex dex="/home/qc/androidProject/uhfTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8ce5cc5e58404e51bee5b604cde90117e4a855b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/qc/.android/build-cache/d86f6ce68e087276fa8ac9bbd4c1b96ec4766304/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/qc/androidProject/uhfTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_8c9b77d7fb6f5f04514efe6fa75d914cdeb88975/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/qc/.android/build-cache/0d717d0516eee1023315272a096c2be135110e88/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/qc/androidProject/uhfTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8cf7e1664dc65f11c059a9e60fe53d95e1853eb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/qc/.android/build-cache/d86f6ce68e087276fa8ac9bbd4c1b96ec4766304/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/qc/androidProject/uhfTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e1ec5f0838602c76facff71f19ca1f52e243882/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/qc/.android/build-cache/ef978677a8aa7b3153ea6bf2102c0c42897c8748/output/jars/libs/ModuleAPI_J.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb0f38d475eeb8f4de5e8fbb97823d9be4a61418">
+        <dex dex="/home/qc/androidProject/uhfTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/ModuleAPI_J_74d13a32c82fd61a059990468baa964797a79ad7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/qc/.android/build-cache/5ba4c99ae0f5cd5807eda2f13f06404505a6ad3c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/qc/androidProject/uhfTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1efc21bf7efe827dd48e880de8b561cb3ba3153/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/qc/.android/build-cache/ad9807be77548d16431f9157cdf6cac7bc3a8e6a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/qc/androidProject/uhfTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e4d077b7d4d5f3e9ee0a80953aab174954dbd548/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/qc/.android/build-cache/160ca916fe03b1a6f5925241bd5c77739ac0d908/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59fffc3fa8192628cac97056d4e9ec9ea4028f6f">
+        <dex dex="/home/qc/androidProject/uhfTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_59efb34665505cf3ec71c471c6e4c404081adb94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/qc/.android/build-cache/ef978677a8aa7b3153ea6bf2102c0c42897c8748/output/jars/libs/Qilian_Feilixin_uhf.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1dc4325eec2ac17551be69044d1a573fc1278962">
+        <dex dex="/home/qc/androidProject/uhfTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/Qilian_Feilixin_uhf_6f4bd39f89952609084cf20797ebca4e895dbcb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/qc/.android/build-cache/ef978677a8aa7b3153ea6bf2102c0c42897c8748/output/jars/libs/Module_Android_DemoPower_1.7.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="377fab4ecef8615db7fd108aeff415752f422e89">
+        <dex dex="/home/qc/androidProject/uhfTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/Module_Android_DemoPower_1.7.5.1_2b6e5067afaa79653ff9498619adc87e17d293d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/qc/.android/build-cache/88de90593ab8b41554f65b161bbadf6082a6413a/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/qc/androidProject/uhfTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_f1c25cb5a304ec656e791056c661e69f531ea53c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/qc/.android/build-cache/ef978677a8aa7b3153ea6bf2102c0c42897c8748/output/jars/libs/R2K.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3303ea7ab98eeb3375c3b3a6ff2b5d331989d574">
+        <dex dex="/home/qc/androidProject/uhfTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/R2K_c1bab7599f973f83c3056283ee2801043b45c4bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/qc/.android/build-cache/da20aa52ec800e9f2e02e8b1a4d569e941d29910/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/qc/androidProject/uhfTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_080d1d0f259dbbf4bb71c670adf7be227bf05951/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/qc/.android/build-cache/88de90593ab8b41554f65b161bbadf6082a6413a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/qc/androidProject/uhfTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3794ac19b500595bbe5e09ab71cb5f6dcd42038c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/qc/.android/build-cache/da20aa52ec800e9f2e02e8b1a4d569e941d29910/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/qc/androidProject/uhfTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a145572c4a165c7d9f01cd263a9fcb0858391e53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/qc/.android/build-cache/160ca916fe03b1a6f5925241bd5c77739ac0d908/output/jars/libs/dom4j-full.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4ebdf10f3f050cb847aa414bbe72b625c8ca38">
+        <dex dex="/home/qc/androidProject/uhfTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/dom4j-full_ed16ad86157d8e4aa7bd09505754863b211942bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/qc/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/home/qc/androidProject/uhfTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_3f1ed699c842171a6bc47545abcb5dd8f6298d1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/qc/.android/build-cache/160ca916fe03b1a6f5925241bd5c77739ac0d908/output/jars/libs/jxl.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f3054dddc609ae94b747e195d812230ca9b5678">
+        <dex dex="/home/qc/androidProject/uhfTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/jxl_42c91bd2bc073b9bff7ee7f39c4a9065f7a2c3a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/opt/android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/qc/androidProject/uhfTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_ac6e433d8c39d8f2c5710fd1bc1d3a75c5a38122/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/qc/androidProject/uhfTest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/qc/androidProject/uhfTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a8c3dc428418a39e4dc4c763ec7473b2e0871988/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/qc/.android/build-cache/ef978677a8aa7b3153ea6bf2102c0c42897c8748/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f94797bd02ac153175b25af907e3922eda25ff91">
+        <dex dex="/home/qc/androidProject/uhfTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b202a0bb365db33d47611e51ea31502e0ba75b78/classes.dex" />
+    </item>
+
+</items>

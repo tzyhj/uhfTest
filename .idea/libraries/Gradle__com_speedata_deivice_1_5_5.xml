@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.speedata:deivice-1.5.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/160ca916fe03b1a6f5925241bd5c77739ac0d908/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/160ca916fe03b1a6f5925241bd5c77739ac0d908/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/160ca916fe03b1a6f5925241bd5c77739ac0d908/output/jars/libs/jxl.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/160ca916fe03b1a6f5925241bd5c77739ac0d908/output/jars/libs/dom4j-full.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.speedata/deivice/1.5.5/21e484ea0b54854f58b566c58db977ef45d17d6f/deivice-1.5.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
